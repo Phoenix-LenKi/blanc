@@ -16,7 +16,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://blanc-odontologia.vercel.app'), // Substituir pelo domínio real quando disponível
+  metadataBase: new URL('https://blanc-six.vercel.app'), // Substituir pelo domínio real quando disponível
   title: 'Blanc Odontologia | Design de Sorrisos & Tecnologia em Florianópolis',
   description: 'Referência em Implantes, Lentes de Contato e Harmonização no Centro de Florianópolis. Tecnologia de ponta e cuidado exclusivo para o seu melhor sorriso.',
   keywords: 'dentista premium, odontologia florianopolis, implante dentario centro, lentes de contato dental, clareamento dental, harmonização facial florianopolis',
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     title: 'Blanc Odontologia | Design de Sorrisos & Tecnologia em Florianópolis',
     description: 'Referência em Implantes, Lentes de Contato e Harmonização no Centro de Florianópolis. Tecnologia de ponta e cuidado exclusivo.',
     type: 'website',
-    url: 'https://blanc-odontologia.vercel.app',
+    url: 'https://blanc-six.vercel.app',
     locale: 'pt_BR',
     siteName: 'Blanc Odontologia',
   },
