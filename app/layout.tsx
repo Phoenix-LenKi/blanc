@@ -31,20 +31,11 @@ export const metadata: Metadata = {
     url: 'https://blanc-odontologia.vercel.app',
     locale: 'pt_BR',
     siteName: 'Blanc Odontologia',
-    images: [
-      {
-        url: '/lead-assets/logo123.png',
-        width: 1200,
-        height: 1200,
-        alt: 'Blanc Odontologia Logo',
-      },
-    ],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Blanc Odontologia | Design de Sorrisos & Tecnologia',
     description: 'Tecnologia de ponta e cuidado exclusivo para o seu melhor sorriso no Centro de Florianópolis.',
-    images: ['/lead-assets/logo123.png'],
   },
   robots: {
     index: true,
