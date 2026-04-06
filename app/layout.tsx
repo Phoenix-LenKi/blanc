@@ -25,8 +25,8 @@ export const metadata: Metadata = {
     apple: '/lead-assets/logo123.png',
   },
   openGraph: {
-    title: 'Blanc Odontologia Clínica Odontológica | Dentista em Florianópolis',
-    description: 'Localizada no centro de Florianópolis. Somos referência em Implantes Dentários, Lentes de Contato, Ortodontia e HOF.',
+    title: 'Blanc Odontologia | Design de Sorrisos & Tecnologia em Florianópolis',
+    description: 'Referência em Implantes, Lentes de Contato e Harmonização no Centro de Florianópolis. Tecnologia de ponta e cuidado exclusivo.',
     type: 'website',
     url: 'https://blanc-odontologia.vercel.app',
     locale: 'pt_BR',
@@ -35,15 +35,15 @@ export const metadata: Metadata = {
       {
         url: '/lead-assets/logo123.png',
         width: 1200,
-        height: 1200, // Ajustado para formato quadrado/logo se for o caso do logo123.png
+        height: 1200,
         alt: 'Blanc Odontologia Logo',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Blanc Odontologia - Clínica Odontológica em Florianópolis',
-    description: 'Referência em Implantes, Lentes de Contato, Ortodontia e HOF.',
+    title: 'Blanc Odontologia | Design de Sorrisos & Tecnologia',
+    description: 'Tecnologia de ponta e cuidado exclusivo para o seu melhor sorriso no Centro de Florianópolis.',
     images: ['/lead-assets/logo123.png'],
   },
   robots: {
