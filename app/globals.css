@@ -1,0 +1,102 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-primary: #B8907E;
+  --color-primary-light: #D4A99E;
+  --color-primary-dark: #9A7068;
+  --color-primary-50: #F5EFED;
+  --color-primary-100: #EBE0DE;
+  --color-secondary: #54595F;
+  --color-secondary-light: #6B7280;
+  --color-background: #FAFAFA;
+  --color-surface: #FFFFFF;
+  --color-surface-alt: #F8FAFC;
+  --color-text: #333333;
+  --color-text-muted: #666666;
+  --color-border: #E0E0E0;
+  --color-accent: #6EC1E4;
+  --color-success: #FAEF9B;
+  --color-gold: #FAEF9B;
+  --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+  --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+  --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+  --shadow-xl: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);
+  --shadow-2xl: 0 25px 50px -12px rgb(0 0 0 / 0.25);
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    font-family: var(--font-inter), system-ui, sans-serif;
+    background-color: var(--color-background);
+    color: var(--color-text);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-playfair), system-ui, serif;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+  }
+
+  ::selection {
+    background-color: var(--color-primary);
+    color: white;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  .gradient-premium {
+    background: linear-gradient(135deg, #B8907E 0%, #9A7068 100%);
+  }
+
+  .shadow-premium {
+    box-shadow: 0 4px 14px 0 rgba(184, 144, 126, 0.35);
+  }
+
+  .gradient-surface {
+    background: linear-gradient(180deg, var(--color-surface) 0%, var(--color-surface-alt) 100%);
+  }
+
+  .animate-float {
+    animation: float 6s ease-in-out infinite;
+  }
+
+  .animate-glow {
+    animation: glow 2s ease-in-out infinite alternate;
+  }
+}
+
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+@keyframes glow {
+  from {
+    box-shadow: 0 0 20px rgba(184, 144, 126, 0.3);
+  }
+  to {
+    box-shadow: 0 0 30px rgba(184, 144, 126, 0.6);
+  }
+}
+
+.glass {
+  background: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}

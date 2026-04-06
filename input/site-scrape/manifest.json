@@ -1,0 +1,2166 @@
+{
+  "tool": "phoenix-scraper",
+  "version": "2.0.0",
+  "originalSiteUrl": "https://www.blancodontologia.com/",
+  "generatedAt": "2026-04-05T05:20:19Z",
+  "settings": {
+    "maxPages": 30,
+    "timeout": 20,
+    "delay": 0.0,
+    "includeSubdomains": true,
+    "includeExternalAssets": true
+  },
+  "summary": {
+    "pagesVisited": 1,
+    "assetsDownloaded": 63,
+    "uniqueAssets": 75,
+    "discoveredLinks": 1,
+    "errors": 12
+  },
+  "linksFound": [
+    "https://www.blancodontologia.com/"
+  ],
+  "pages": [
+    {
+      "url": "https://www.blancodontologia.com/",
+      "slug": "home",
+      "title": "Blanc Odontologia Clínica Odontológica | Dentista em Florianópolis",
+      "status": "ok",
+      "localHtmlPath": "pages/home.html",
+      "imageCount": 63,
+      "images": [
+        {
+          "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/Estetica-Dental-Lentes-de-Contato-Facetas-em-Resina-e-Clareamento.-Dentista-Centro-Florianopolis.png",
+          "localPath": "images/home/Estetica-Dental-Lentes-de-Contato-Facetas-em-Resina-e-Clareamento.-Dentista-Centro-Florianopolis_1.png",
+          "sourceType": "img:src",
+          "selectorHint": "img.attachment-full.size-full.wp-image-193",
+          "alt": "Link para a página de Estética Dental na Blanc Odontologia",
+          "roleHint": "team",
+          "mimeType": "image/png",
+          "width": 800,
+          "height": 600,
+          "sizeBytes": 610316,
+          "sha1": "c19ed346aff318acf75c4d662414030ca833e2d5",
+          "qualityFlags": [
+            "small_for_hero"
+          ],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/Implantes-Dentarios-Recupere-seusorriso.-Implante-unitario-e-Protese-Protocolo.-Dentista-Centro-Florianopolis.png",
+          "localPath": "images/home/Implantes-Dentarios-Recupere-seusorriso.-Implante-unitario-e-Protese-Protocolo.-Dentista-Centro-Florianopolis_1.png",
+          "sourceType": "img:src",
+          "selectorHint": "img.attachment-full.size-full.wp-image-192",
+          "alt": "Link para a página de Implantes Dentários em Florianópolis",
+          "roleHint": "team",
+          "mimeType": "image/png",
+          "width": 800,
+          "height": 600,
+          "sizeBytes": 707497,
+          "sha1": "1c8252133f32157ea2479efa4f9beace26bf6cae",
+          "qualityFlags": [
+            "small_for_hero"
+          ],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/Ortodontia-Aparelhos-Alinhadores-Invisiveis-e-Aparelhos-esteticos_metalicos.-Dentista-Centro-Florianopolis.png",
+          "localPath": "images/home/Ortodontia-Aparelhos-Alinhadores-Invisiveis-e-Aparelhos-esteticos_metalicos.-Dentista-Centro-Florianopolis_1.png",
+          "sourceType": "img:src",
+          "selectorHint": "img.attachment-full.size-full.wp-image-191",
+          "alt": "Link para a página de Ortodontia (Aparelhos) em Florianópolis",
+          "roleHint": "team",
+          "mimeType": "image/png",
+          "width": 800,
+          "height": 600,
+          "sizeBytes": 583750,
+          "sha1": "62e369d565142277169eb844355e935e702f656f",
+          "qualityFlags": [
+            "small_for_hero"
+          ],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/Odontopediatria-Cuidado-especializado-para-criancas-e-Cuidado-especializado-para-criancas-e-Ortopedia-Infantil.-Dentista-Centro-Florianopolis.png",
+          "localPath": "images/home/Odontopediatria-Cuidado-especializado-para-criancas-e-Cuidado-especializado-para-criancas-e-Ortopedia-Infantil.-Dentista-Centro-Florianopolis_1.png",
+          "sourceType": "img:src",
+          "selectorHint": "img.attachment-full.size-full.wp-image-190",
+          "alt": "Link para a página de Odontopediatria (Atendimento Infantil) Florianópolis",
+          "roleHint": "team",
+          "mimeType": "image/png",
+          "width": 800,
+          "height": 600,
+          "sizeBytes": 635070,
+          "sha1": "f7b1a5ff399f22253b71b376e452963d08d2a8bf",
+          "qualityFlags": [
+            "small_for_hero"
+          ],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/Clinico-Geral-e-Prevencao-Check-up-Limpeza-Dental-Restauracoes-e-Tratamento-de-Gengiva.-Dentista-Centro-Florianopolis.png",
+          "localPath": "images/home/Clinico-Geral-e-Prevencao-Check-up-Limpeza-Dental-Restauracoes-e-Tratamento-de-Gengiva.-Dentista-Centro-Florianopolis_1.png",
+          "sourceType": "img:src",
+          "selectorHint": "img.attachment-full.size-full.wp-image-189",
+          "alt": "Link para a página de Clínica Geral e Prevenção em Florianópolis",
+          "roleHint": "team",
+          "mimeType": "image/png",
+          "width": 800,
+          "height": 600,
+          "sizeBytes": 597370,
+          "sha1": "efcd93abe4bda39166fa73efb25f10d1662adf90",
+          "qualityFlags": [
+            "small_for_hero"
+          ],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/Harmonizacao-Orofacial-Botox-terapeutico-e-Preenchimento-com-Acido-Hialuronico.-Dentista-Centro-Florianopolis.png",
+          "localPath": "images/home/Harmonizacao-Orofacial-Botox-terapeutico-e-Preenchimento-com-Acido-Hialuronico.-Dentista-Centro-Florianopolis_1.png",
+          "sourceType": "img:src",
+          "selectorHint": "img.attachment-full.size-full.wp-image-188",
+          "alt": "Link para a página de Harmonização Orofacial (HOF) da Blanc Odontologia",
+          "roleHint": "team",
+          "mimeType": "image/png",
+          "width": 800,
+          "height": 600,
+          "sizeBytes": 579996,
+          "sha1": "e13f7076c6b87812647671784dfa521d777bfc2a",
+          "qualityFlags": [
+            "small_for_hero"
+          ],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/Tratamentos-Especializados-Tratamento-de-Canal-Endodontia-e-Cirurgias-Extracao-de-Siso.-Dentista-Centro-Florianopolis.png",
+          "localPath": "images/home/Tratamentos-Especializados-Tratamento-de-Canal-Endodontia-e-Cirurgias-Extracao-de-Siso.-Dentista-Centro-Florianopolis_1.png",
+          "sourceType": "img:src",
+          "selectorHint": "img.attachment-full.size-full.wp-image-187",
+          "alt": "Link para a página de Endodontia (Tratamento de Canal) da Blanc Odontologia",
+          "roleHint": "team",
+          "mimeType": "image/png",
+          "width": 800,
+          "height": 600,
+          "sizeBytes": 644402,
+          "sha1": "d2f5440ed4631af5aa1b7e6ba3250bbd057f5dbd",
+          "qualityFlags": [
+            "small_for_hero"
+          ],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/dentista-credenciado-unimed-odonto-em-florianopolis.png",
+          "localPath": "images/home/dentista-credenciado-unimed-odonto-em-florianopolis_1.png",
+          "sourceType": "img:src",
+          "selectorHint": "img.attachment-full.size-full.wp-image-168",
+          "alt": "",
+          "roleHint": "team",
+          "mimeType": "image/png",
+          "width": 1200,
+          "height": 1200,
+          "sizeBytes": 277514,
+          "sha1": "19c460c9cb9f428204af2187a46f5be44d70674b",
+          "qualityFlags": [],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/dentista-credenciado-plano-uniodonto-em-florianopolis.png",
+          "localPath": "images/home/dentista-credenciado-plano-uniodonto-em-florianopolis_1.png",
+          "sourceType": "img:src",
+          "selectorHint": "img.attachment-full.size-full.wp-image-166",
+          "alt": "",
+          "roleHint": "team",
+          "mimeType": "image/png",
+          "width": 1200,
+          "height": 1200,
+          "sizeBytes": 269940,
+          "sha1": "60a4ba733626707e37075014774f6f78b9dda92a",
+          "qualityFlags": [],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/dentista-credenciado-plano-sulamerica-em-florianopolis.png",
+          "localPath": "images/home/dentista-credenciado-plano-sulamerica-em-florianopolis_1.png",
+          "sourceType": "img:src",
+          "selectorHint": "img.attachment-full.size-full.wp-image-165",
+          "alt": "",
+          "roleHint": "team",
+          "mimeType": "image/png",
+          "width": 1200,
+          "height": 1200,
+          "sizeBytes": 267864,
+          "sha1": "d6d8f7d987911c8efcc84b90a77507bb1fec1c66",
+          "qualityFlags": [],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/dentista-credenciado-plano-porto-seguro-odontologico-em-florianopolis.png",
+          "localPath": "images/home/dentista-credenciado-plano-porto-seguro-odontologico-em-florianopolis_1.png",
+          "sourceType": "img:src",
+          "selectorHint": "img.attachment-full.size-full.wp-image-164",
+          "alt": "",
+          "roleHint": "team",
+          "mimeType": "image/png",
+          "width": 1200,
+          "height": 1200,
+          "sizeBytes": 298715,
+          "sha1": "fef117842f40a4200d479d4d8b2eb3fc0f492314",
+          "qualityFlags": [],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/dentista-credenciado-plano-odont-em-florianopolis.png",
+          "localPath": "images/home/dentista-credenciado-plano-odont-em-florianopolis_1.png",
+          "sourceType": "img:src",
+          "selectorHint": "img.attachment-full.size-full.wp-image-163",
+          "alt": "",
+          "roleHint": "team",
+          "mimeType": "image/png",
+          "width": 1200,
+          "height": 1200,
+          "sizeBytes": 266041,
+          "sha1": "5a4a05ad4c7ce53d17e53755c710769d535e7a1a",
+          "qualityFlags": [],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/dentista-credenciado-plano-metlife-em-florianopolis.png",
+          "localPath": "images/home/dentista-credenciado-plano-metlife-em-florianopolis_1.png",
+          "sourceType": "img:src",
+          "selectorHint": "img.attachment-full.size-full.wp-image-162",
+          "alt": "",
+          "roleHint": "team",
+          "mimeType": "image/png",
+          "width": 1200,
+          "height": 1200,
+          "sizeBytes": 262833,
+          "sha1": "e918c0fb85ce63191c2ee89b192c84e186a2e824",
+          "qualityFlags": [],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/dentista-credenciado-plano-life-empresarial-saude-em-florianopolis.png",
+          "localPath": "images/home/dentista-credenciado-plano-life-empresarial-saude-em-florianopolis_1.png",
+          "sourceType": "img:src",
+          "selectorHint": "img.attachment-full.size-full.wp-image-161",
+          "alt": "",
+          "roleHint": "team",
+          "mimeType": "image/png",
+          "width": 1200,
+          "height": 1200,
+          "sizeBytes": 309478,
+          "sha1": "7abba919b4e53f98863a440e70a3d64e5bde4f5f",
+          "qualityFlags": [],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/dentista-credenciado-plano-inpao-dental-em-florianopolis.png",
+          "localPath": "images/home/dentista-credenciado-plano-inpao-dental-em-florianopolis_1.png",
+          "sourceType": "img:src",
+          "selectorHint": "img.attachment-full.size-full.wp-image-160",
+          "alt": "",
+          "roleHint": "team",
+          "mimeType": "image/png",
+          "width": 1200,
+          "height": 1200,
+          "sizeBytes": 277408,
+          "sha1": "94f4269a88ec01d85abf8e47311da119fecb3cae",
+          "qualityFlags": [],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/dentista-credenciado-plano-ideal-odonto-em-florianopolis.png",
+          "localPath": "images/home/dentista-credenciado-plano-ideal-odonto-em-florianopolis_1.png",
+          "sourceType": "img:src",
+          "selectorHint": "img.attachment-full.size-full.wp-image-159",
+          "alt": "",
+          "roleHint": "team",
+          "mimeType": "image/png",
+          "width": 1200,
+          "height": 1200,
+          "sizeBytes": 273231,
+          "sha1": "457a148e869de0d410abf9ffacce157a80186cb9",
+          "qualityFlags": [],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/dentista-credenciado-plano-hapvida-em-florianopolis.png",
+          "localPath": "images/home/dentista-credenciado-plano-hapvida-em-florianopolis_1.png",
+          "sourceType": "img:src",
+          "selectorHint": "img.attachment-full.size-full.wp-image-158",
+          "alt": "",
+          "roleHint": "team",
+          "mimeType": "image/png",
+          "width": 1200,
+          "height": 1200,
+          "sizeBytes": 266400,
+          "sha1": "edccbd43800a971bc183e2ccd08622df8870650a",
+          "qualityFlags": [],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/dentista-credenciado-plano-geap-saude-em-florianopolis.png",
+          "localPath": "images/home/dentista-credenciado-plano-geap-saude-em-florianopolis_1.png",
+          "sourceType": "img:src",
+          "selectorHint": "img.attachment-full.size-full.wp-image-157",
+          "alt": "",
+          "roleHint": "team",
+          "mimeType": "image/png",
+          "width": 1200,
+          "height": 1200,
+          "sizeBytes": 260798,
+          "sha1": "8063aca047dd0ea435ecb47cdb37cae01f782d5b",
+          "qualityFlags": [],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/dentista-credenciado-plano-dentaluni-em-florianopolis.png",
+          "localPath": "images/home/dentista-credenciado-plano-dentaluni-em-florianopolis_1.png",
+          "sourceType": "img:src",
+          "selectorHint": "img.attachment-full.size-full.wp-image-156",
+          "alt": "",
+          "roleHint": "team",
+          "mimeType": "image/png",
+          "width": 1200,
+          "height": 1200,
+          "sizeBytes": 292319,
+          "sha1": "b42c7dedb273c75591c04e91a77ea9bddfb4968f",
+          "qualityFlags": [],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/dentista-credenciado-plano-cruz-dental-em-florianopolis.png",
+          "localPath": "images/home/dentista-credenciado-plano-cruz-dental-em-florianopolis_1.png",
+          "sourceType": "img:src",
+          "selectorHint": "img.attachment-full.size-full.wp-image-155",
+          "alt": "",
+          "roleHint": "team",
+          "mimeType": "image/png",
+          "width": 1200,
+          "height": 1200,
+          "sizeBytes": 272241,
+          "sha1": "a72782570b9cfba9f15ea45af86846a5ab813444",
+          "qualityFlags": [],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/dentista-credenciado-plano-celos-em-florianopolis.png",
+          "localPath": "images/home/dentista-credenciado-plano-celos-em-florianopolis_1.png",
+          "sourceType": "img:src",
+          "selectorHint": "img.attachment-full.size-full.wp-image-154",
+          "alt": "",
+          "roleHint": "team",
+          "mimeType": "image/png",
+          "width": 1200,
+          "height": 1200,
+          "sizeBytes": 270410,
+          "sha1": "08588a6532bcf3fa88d4f252914bb676d9d2b4f7",
+          "qualityFlags": [],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/dentista-credenciado-plano-care-plus-em-florianopolis.png",
+          "localPath": "images/home/dentista-credenciado-plano-care-plus-em-florianopolis_1.png",
+          "sourceType": "img:src",
+          "selectorHint": "img.attachment-full.size-full.wp-image-153",
+          "alt": "",
+          "roleHint": "team",
+          "mimeType": "image/png",
+          "width": 1200,
+          "height": 1200,
+          "sizeBytes": 279925,
+          "sha1": "1bb03df47e83f7432f958ed1d186b17de3f99089",
+          "qualityFlags": [],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/dentista-credenciado-plano-athena-saude-em-florianopolis.png",
+          "localPath": "images/home/dentista-credenciado-plano-athena-saude-em-florianopolis_1.png",
+          "sourceType": "img:src",
+          "selectorHint": "img.attachment-full.size-full.wp-image-152",
+          "alt": "",
+          "roleHint": "team",
+          "mimeType": "image/png",
+          "width": 1200,
+          "height": 1200,
+          "sizeBytes": 337373,
+          "sha1": "c5bf42226e4522e08f5b7a76fa449e5050d190cb",
+          "qualityFlags": [],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/dentista-credenciado-plano-amil-dental-em-florianopolis.png",
+          "localPath": "images/home/dentista-credenciado-plano-amil-dental-em-florianopolis_1.png",
+          "sourceType": "img:src",
+          "selectorHint": "img.attachment-full.size-full.wp-image-150",
+          "alt": "",
+          "roleHint": "team",
+          "mimeType": "image/png",
+          "width": 1200,
+          "height": 1200,
+          "sizeBytes": 259953,
+          "sha1": "da27416015d1455e333160a8cb54929ed2cd2a83",
+          "qualityFlags": [],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/dentista-credenciado-plano-aesp-odonto-em-florianopolis.png",
+          "localPath": "images/home/dentista-credenciado-plano-aesp-odonto-em-florianopolis_1.png",
+          "sourceType": "img:src",
+          "selectorHint": "img.attachment-full.size-full.wp-image-149",
+          "alt": "",
+          "roleHint": "team",
+          "mimeType": "image/png",
+          "width": 1200,
+          "height": 1200,
+          "sizeBytes": 254083,
+          "sha1": "f23bb37a74933eb8dc0bf21445f0d5a557412228",
+          "qualityFlags": [],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/Clinica-Odontologica-Blanc-Dentista-Centro-Florianopolis-.png",
+          "localPath": "images/home/Clinica-Odontologica-Blanc-Dentista-Centro-Florianopolis-_1.png",
+          "sourceType": "css:url",
+          "selectorHint": "https://blancodontologia.com/wp-content/uploads/elementor/css/post-61.css?ver=1765373348",
+          "alt": "",
+          "roleHint": "team",
+          "mimeType": "image/png",
+          "width": 724,
+          "height": 483,
+          "sizeBytes": 400143,
+          "sha1": "60e6e33e0d67f01557a8c20bd4ff29a0158468d4",
+          "qualityFlags": [
+            "small_for_hero"
+          ],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkC3kaWzU.woff2",
+          "localPath": "images/home/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkC3kaWzU.woff2",
+          "sourceType": "css:url",
+          "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+          "alt": "",
+          "roleHint": "general",
+          "mimeType": "font/woff2",
+          "width": null,
+          "height": null,
+          "sizeBytes": 40480,
+          "sha1": "80b19703cadc8949a24eb83571f26f192ddbeb76",
+          "qualityFlags": [
+            "dimensions_unknown"
+          ],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkAnkaWzU.woff2",
+          "localPath": "images/home/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkAnkaWzU.woff2",
+          "sourceType": "css:url",
+          "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+          "alt": "",
+          "roleHint": "general",
+          "mimeType": "font/woff2",
+          "width": null,
+          "height": null,
+          "sizeBytes": 25464,
+          "sha1": "872a626f518f80709980a5e439d87db1140ccb31",
+          "qualityFlags": [
+            "dimensions_unknown"
+          ],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkCnkaWzU.woff2",
+          "localPath": "images/home/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkCnkaWzU.woff2",
+          "sourceType": "css:url",
+          "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+          "alt": "",
+          "roleHint": "general",
+          "mimeType": "font/woff2",
+          "width": null,
+          "height": null,
+          "sizeBytes": 4452,
+          "sha1": "9f7b1895f418b62f914786c2a826a6c2d6cac53e",
+          "qualityFlags": [
+            "dimensions_unknown"
+          ],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkBXkaWzU.woff2",
+          "localPath": "images/home/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkBXkaWzU.woff2",
+          "sourceType": "css:url",
+          "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+          "alt": "",
+          "roleHint": "general",
+          "mimeType": "font/woff2",
+          "width": null,
+          "height": null,
+          "sizeBytes": 18780,
+          "sha1": "25e95a37dfd9b5f229fea663564a625a72721f40",
+          "qualityFlags": [
+            "dimensions_unknown"
+          ],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkenkaWzU.woff2",
+          "localPath": "images/home/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkenkaWzU.woff2",
+          "sourceType": "css:url",
+          "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+          "alt": "",
+          "roleHint": "general",
+          "mimeType": "font/woff2",
+          "width": null,
+          "height": null,
+          "sizeBytes": 45184,
+          "sha1": "c69ff6ecf45aebe6773d03b2d6a8d975f0eef18b",
+          "qualityFlags": [
+            "dimensions_unknown"
+          ],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkaHkaWzU.woff2",
+          "localPath": "images/home/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkaHkaWzU.woff2",
+          "sourceType": "css:url",
+          "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+          "alt": "",
+          "roleHint": "general",
+          "mimeType": "font/woff2",
+          "width": null,
+          "height": null,
+          "sizeBytes": 22440,
+          "sha1": "d828e3547254af68d2cda497c7bb2cb9bc5f87ab",
+          "qualityFlags": [
+            "dimensions_unknown"
+          ],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkCXkaWzU.woff2",
+          "localPath": "images/home/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkCXkaWzU.woff2",
+          "sourceType": "css:url",
+          "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+          "alt": "",
+          "roleHint": "general",
+          "mimeType": "font/woff2",
+          "width": null,
+          "height": null,
+          "sizeBytes": 15344,
+          "sha1": "fac8365be7930f8f2edcc2be8c715f7de02d2991",
+          "qualityFlags": [
+            "dimensions_unknown"
+          ],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkCHkaWzU.woff2",
+          "localPath": "images/home/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkCHkaWzU.woff2",
+          "sourceType": "css:url",
+          "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+          "alt": "",
+          "roleHint": "general",
+          "mimeType": "font/woff2",
+          "width": null,
+          "height": null,
+          "sizeBytes": 31820,
+          "sha1": "08ccbfb0b5f90a7b477232d00d50b715e3538fcc",
+          "qualityFlags": [
+            "dimensions_unknown"
+          ],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkBnka.woff2",
+          "localPath": "images/home/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkBnka.woff2",
+          "sourceType": "css:url",
+          "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+          "alt": "",
+          "roleHint": "general",
+          "mimeType": "font/woff2",
+          "width": null,
+          "height": null,
+          "sizeBytes": 47208,
+          "sha1": "656fca193330ac8ec592a0942f4e7d718fa69cbf",
+          "qualityFlags": [
+            "dimensions_unknown"
+          ],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3GUBGEe.woff2",
+          "localPath": "images/home/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3GUBGEe.woff2",
+          "sourceType": "css:url",
+          "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+          "alt": "",
+          "roleHint": "general",
+          "mimeType": "font/woff2",
+          "width": null,
+          "height": null,
+          "sizeBytes": 36652,
+          "sha1": "af2482c394a5115463b16dcae9d2429f56665a4d",
+          "qualityFlags": [
+            "dimensions_unknown"
+          ],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3iUBGEe.woff2",
+          "localPath": "images/home/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3iUBGEe.woff2",
+          "sourceType": "css:url",
+          "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+          "alt": "",
+          "roleHint": "general",
+          "mimeType": "font/woff2",
+          "width": null,
+          "height": null,
+          "sizeBytes": 23664,
+          "sha1": "d38fbadd1b1ceccffbfb43f677698f3a7112f0b4",
+          "qualityFlags": [
+            "dimensions_unknown"
+          ],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3CUBGEe.woff2",
+          "localPath": "images/home/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3CUBGEe.woff2",
+          "sourceType": "css:url",
+          "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+          "alt": "",
+          "roleHint": "general",
+          "mimeType": "font/woff2",
+          "width": null,
+          "height": null,
+          "sizeBytes": 4348,
+          "sha1": "9ff50f57949d388b146ff84a4c3d5ca027816acb",
+          "qualityFlags": [
+            "dimensions_unknown"
+          ],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3-UBGEe.woff2",
+          "localPath": "images/home/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3-UBGEe.woff2",
+          "sourceType": "css:url",
+          "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+          "alt": "",
+          "roleHint": "general",
+          "mimeType": "font/woff2",
+          "width": null,
+          "height": null,
+          "sizeBytes": 17624,
+          "sha1": "52230241f4fc23d508444b37b92bfdcb6dd96595",
+          "qualityFlags": [
+            "dimensions_unknown"
+          ],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMawCUBGEe.woff2",
+          "localPath": "images/home/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMawCUBGEe.woff2",
+          "sourceType": "css:url",
+          "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+          "alt": "",
+          "roleHint": "general",
+          "mimeType": "font/woff2",
+          "width": null,
+          "height": null,
+          "sizeBytes": 41348,
+          "sha1": "205228bc618a378a36ef6200894c10aa1decda09",
+          "qualityFlags": [
+            "dimensions_unknown"
+          ],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMaxKUBGEe.woff2",
+          "localPath": "images/home/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMaxKUBGEe.woff2",
+          "sourceType": "css:url",
+          "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+          "alt": "",
+          "roleHint": "general",
+          "mimeType": "font/woff2",
+          "width": null,
+          "height": null,
+          "sizeBytes": 20556,
+          "sha1": "e57daae78e76c8944e97edecfa656f8608e09db5",
+          "qualityFlags": [
+            "dimensions_unknown"
+          ],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3OUBGEe.woff2",
+          "localPath": "images/home/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3OUBGEe.woff2",
+          "sourceType": "css:url",
+          "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+          "alt": "",
+          "roleHint": "general",
+          "mimeType": "font/woff2",
+          "width": null,
+          "height": null,
+          "sizeBytes": 14340,
+          "sha1": "ea12964a22c83d28a3afb1c29ad45ee75e7e2d52",
+          "qualityFlags": [
+            "dimensions_unknown"
+          ],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3KUBGEe.woff2",
+          "localPath": "images/home/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3KUBGEe.woff2",
+          "sourceType": "css:url",
+          "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+          "alt": "",
+          "roleHint": "general",
+          "mimeType": "font/woff2",
+          "width": null,
+          "height": null,
+          "sizeBytes": 29392,
+          "sha1": "6a5e89b2f9b47f5a2fb11831479c02b4eebe3089",
+          "qualityFlags": [
+            "dimensions_unknown"
+          ],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+          "localPath": "images/home/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+          "sourceType": "css:url",
+          "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+          "alt": "",
+          "roleHint": "general",
+          "mimeType": "font/woff2",
+          "width": null,
+          "height": null,
+          "sizeBytes": 43136,
+          "sha1": "41ca6b7e4818eb81531d8006ff7ddd971c640879",
+          "qualityFlags": [
+            "dimensions_unknown"
+          ],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufA5qW54A.woff2",
+          "localPath": "images/home/BngMUXZYTXPIvIBgJJSb6ufA5qW54A.woff2",
+          "sourceType": "css:url",
+          "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Roboto Slab:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+          "alt": "",
+          "roleHint": "general",
+          "mimeType": "font/woff2",
+          "width": null,
+          "height": null,
+          "sizeBytes": 32340,
+          "sha1": "63f0e2200ca0e3e96c1dd9af084ef37522557349",
+          "qualityFlags": [
+            "dimensions_unknown"
+          ],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufJ5qW54A.woff2",
+          "localPath": "images/home/BngMUXZYTXPIvIBgJJSb6ufJ5qW54A.woff2",
+          "sourceType": "css:url",
+          "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Roboto Slab:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+          "alt": "",
+          "roleHint": "general",
+          "mimeType": "font/woff2",
+          "width": null,
+          "height": null,
+          "sizeBytes": 21420,
+          "sha1": "fdfc41c6fa88004c98fc8f25312e12fc68b8bf65",
+          "qualityFlags": [
+            "dimensions_unknown"
+          ],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufB5qW54A.woff2",
+          "localPath": "images/home/BngMUXZYTXPIvIBgJJSb6ufB5qW54A.woff2",
+          "sourceType": "css:url",
+          "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Roboto Slab:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+          "alt": "",
+          "roleHint": "general",
+          "mimeType": "font/woff2",
+          "width": null,
+          "height": null,
+          "sizeBytes": 2224,
+          "sha1": "d2787be9ce0c77b3d21dc8255c7f17efcad67105",
+          "qualityFlags": [
+            "dimensions_unknown"
+          ],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufO5qW54A.woff2",
+          "localPath": "images/home/BngMUXZYTXPIvIBgJJSb6ufO5qW54A.woff2",
+          "sourceType": "css:url",
+          "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Roboto Slab:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+          "alt": "",
+          "roleHint": "general",
+          "mimeType": "font/woff2",
+          "width": null,
+          "height": null,
+          "sizeBytes": 14856,
+          "sha1": "d1f0491386ce465716d73650e943358f28ad4c8e",
+          "qualityFlags": [
+            "dimensions_unknown"
+          ],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufC5qW54A.woff2",
+          "localPath": "images/home/BngMUXZYTXPIvIBgJJSb6ufC5qW54A.woff2",
+          "sourceType": "css:url",
+          "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Roboto Slab:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+          "alt": "",
+          "roleHint": "general",
+          "mimeType": "font/woff2",
+          "width": null,
+          "height": null,
+          "sizeBytes": 9980,
+          "sha1": "3246f6e544f30242a465311793ca2f421fd52516",
+          "qualityFlags": [
+            "dimensions_unknown"
+          ],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufD5qW54A.woff2",
+          "localPath": "images/home/BngMUXZYTXPIvIBgJJSb6ufD5qW54A.woff2",
+          "sourceType": "css:url",
+          "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Roboto Slab:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+          "alt": "",
+          "roleHint": "general",
+          "mimeType": "font/woff2",
+          "width": null,
+          "height": null,
+          "sizeBytes": 21188,
+          "sha1": "ec0885c33c5210afc6b3aec3eb221fe747b99de6",
+          "qualityFlags": [
+            "dimensions_unknown"
+          ],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufN5qU.woff2",
+          "localPath": "images/home/BngMUXZYTXPIvIBgJJSb6ufN5qU.woff2",
+          "sourceType": "css:url",
+          "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Roboto Slab:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+          "alt": "",
+          "roleHint": "general",
+          "mimeType": "font/woff2",
+          "width": null,
+          "height": null,
+          "sizeBytes": 34236,
+          "sha1": "427949faee52b0848aacce8dde79939e4956c3d3",
+          "qualityFlags": [
+            "dimensions_unknown"
+          ],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRxC7mw9c.woff2",
+          "localPath": "images/home/JTUQjIg1_i6t8kCHKm459WxRxC7mw9c.woff2",
+          "sourceType": "css:url",
+          "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Montserrat:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+          "alt": "",
+          "roleHint": "general",
+          "mimeType": "font/woff2",
+          "width": null,
+          "height": null,
+          "sizeBytes": 26944,
+          "sha1": "eb7119676692688c070f66a0ec90e3264358b935",
+          "qualityFlags": [
+            "dimensions_unknown"
+          ],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRzS7mw9c.woff2",
+          "localPath": "images/home/JTUQjIg1_i6t8kCHKm459WxRzS7mw9c.woff2",
+          "sourceType": "css:url",
+          "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Montserrat:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+          "alt": "",
+          "roleHint": "general",
+          "mimeType": "font/woff2",
+          "width": null,
+          "height": null,
+          "sizeBytes": 24536,
+          "sha1": "557cc5d8766d09ceecef0e7001ebe019166ee3b6",
+          "qualityFlags": [
+            "dimensions_unknown"
+          ],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRxi7mw9c.woff2",
+          "localPath": "images/home/JTUQjIg1_i6t8kCHKm459WxRxi7mw9c.woff2",
+          "sourceType": "css:url",
+          "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Montserrat:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+          "alt": "",
+          "roleHint": "general",
+          "mimeType": "font/woff2",
+          "width": null,
+          "height": null,
+          "sizeBytes": 13900,
+          "sha1": "ae2baf54c358113d237f52cc881b6ccc3132125c",
+          "qualityFlags": [
+            "dimensions_unknown"
+          ],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRxy7mw9c.woff2",
+          "localPath": "images/home/JTUQjIg1_i6t8kCHKm459WxRxy7mw9c.woff2",
+          "sourceType": "css:url",
+          "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Montserrat:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+          "alt": "",
+          "roleHint": "general",
+          "mimeType": "font/woff2",
+          "width": null,
+          "height": null,
+          "sizeBytes": 74892,
+          "sha1": "7ca9746a636045ee7c6d100f68950787e784c0a3",
+          "qualityFlags": [
+            "dimensions_unknown"
+          ],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRyS7m.woff2",
+          "localPath": "images/home/JTUQjIg1_i6t8kCHKm459WxRyS7m.woff2",
+          "sourceType": "css:url",
+          "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Montserrat:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+          "alt": "",
+          "roleHint": "general",
+          "mimeType": "font/woff2",
+          "width": null,
+          "height": null,
+          "sizeBytes": 39632,
+          "sha1": "fa235c9a02b7c843a193fcea248f1ec7891812c7",
+          "qualityFlags": [
+            "dimensions_unknown"
+          ],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2",
+          "localPath": "images/home/JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2",
+          "sourceType": "css:url",
+          "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Montserrat:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+          "alt": "",
+          "roleHint": "general",
+          "mimeType": "font/woff2",
+          "width": null,
+          "height": null,
+          "sizeBytes": 26368,
+          "sha1": "9f10d2948d17ed748663d1acfb100fa9cec8e92e",
+          "qualityFlags": [
+            "dimensions_unknown"
+          ],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459W1hyzbi.woff2",
+          "localPath": "images/home/JTUSjIg1_i6t8kCHKm459W1hyzbi.woff2",
+          "sourceType": "css:url",
+          "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Montserrat:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+          "alt": "",
+          "roleHint": "general",
+          "mimeType": "font/woff2",
+          "width": null,
+          "height": null,
+          "sizeBytes": 23828,
+          "sha1": "520cd39b1b5bb249f2f7587505f0e3711be52c90",
+          "qualityFlags": [
+            "dimensions_unknown"
+          ],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459WZhyzbi.woff2",
+          "localPath": "images/home/JTUSjIg1_i6t8kCHKm459WZhyzbi.woff2",
+          "sourceType": "css:url",
+          "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Montserrat:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+          "alt": "",
+          "roleHint": "general",
+          "mimeType": "font/woff2",
+          "width": null,
+          "height": null,
+          "sizeBytes": 12928,
+          "sha1": "404038f1a5087fd7e1241182f717806eaa8c21e4",
+          "qualityFlags": [
+            "dimensions_unknown"
+          ],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459Wdhyzbi.woff2",
+          "localPath": "images/home/JTUSjIg1_i6t8kCHKm459Wdhyzbi.woff2",
+          "sourceType": "css:url",
+          "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Montserrat:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+          "alt": "",
+          "roleHint": "general",
+          "mimeType": "font/woff2",
+          "width": null,
+          "height": null,
+          "sizeBytes": 70688,
+          "sha1": "a63797c1e1c137082b7a58f6ee58ccb8640ac51e",
+          "qualityFlags": [
+            "dimensions_unknown"
+          ],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2",
+          "localPath": "images/home/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2",
+          "sourceType": "css:url",
+          "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Montserrat:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+          "alt": "",
+          "roleHint": "general",
+          "mimeType": "font/woff2",
+          "width": null,
+          "height": null,
+          "sizeBytes": 37956,
+          "sha1": "a5ec54920b589ebe2af3bc3bb7754a476db68abf",
+          "qualityFlags": [
+            "dimensions_unknown"
+          ],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/Design-sem-nome-3-150x150.png",
+          "localPath": "images/home/Design-sem-nome-3-150x150.png",
+          "sourceType": "link:icon",
+          "selectorHint": "icon",
+          "alt": "",
+          "roleHint": "logo_or_icon",
+          "mimeType": "image/png",
+          "width": 150,
+          "height": 150,
+          "sizeBytes": 2755,
+          "sha1": "e988f720b954a6c07fe99037b1d824f844ba8052",
+          "qualityFlags": [
+            "low_resolution",
+            "small_for_hero",
+            "possibly_overcompressed"
+          ],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        },
+        {
+          "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/Design-sem-nome-3-300x300.png",
+          "localPath": "images/home/Design-sem-nome-3-300x300.png",
+          "sourceType": "link:icon",
+          "selectorHint": "icon",
+          "alt": "",
+          "roleHint": "logo_or_icon",
+          "mimeType": "image/png",
+          "width": 300,
+          "height": 300,
+          "sizeBytes": 7383,
+          "sha1": "db7d239c0f297848eb383922e396b583be10d3e1",
+          "qualityFlags": [
+            "low_resolution",
+            "small_for_hero",
+            "possibly_overcompressed"
+          ],
+          "foundOnPage": "https://www.blancodontologia.com/"
+        }
+      ],
+      "discoveredInternalLinks": []
+    }
+  ],
+  "assets": [
+    {
+      "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/Estetica-Dental-Lentes-de-Contato-Facetas-em-Resina-e-Clareamento.-Dentista-Centro-Florianopolis.png",
+      "localPath": "images/home/Estetica-Dental-Lentes-de-Contato-Facetas-em-Resina-e-Clareamento.-Dentista-Centro-Florianopolis_1.png",
+      "sourceType": "img:src",
+      "selectorHint": "img.attachment-full.size-full.wp-image-193",
+      "alt": "Link para a página de Estética Dental na Blanc Odontologia",
+      "roleHint": "team",
+      "mimeType": "image/png",
+      "width": 800,
+      "height": 600,
+      "sizeBytes": 610316,
+      "sha1": "c19ed346aff318acf75c4d662414030ca833e2d5",
+      "qualityFlags": [
+        "small_for_hero"
+      ],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/Implantes-Dentarios-Recupere-seusorriso.-Implante-unitario-e-Protese-Protocolo.-Dentista-Centro-Florianopolis.png",
+      "localPath": "images/home/Implantes-Dentarios-Recupere-seusorriso.-Implante-unitario-e-Protese-Protocolo.-Dentista-Centro-Florianopolis_1.png",
+      "sourceType": "img:src",
+      "selectorHint": "img.attachment-full.size-full.wp-image-192",
+      "alt": "Link para a página de Implantes Dentários em Florianópolis",
+      "roleHint": "team",
+      "mimeType": "image/png",
+      "width": 800,
+      "height": 600,
+      "sizeBytes": 707497,
+      "sha1": "1c8252133f32157ea2479efa4f9beace26bf6cae",
+      "qualityFlags": [
+        "small_for_hero"
+      ],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/Ortodontia-Aparelhos-Alinhadores-Invisiveis-e-Aparelhos-esteticos_metalicos.-Dentista-Centro-Florianopolis.png",
+      "localPath": "images/home/Ortodontia-Aparelhos-Alinhadores-Invisiveis-e-Aparelhos-esteticos_metalicos.-Dentista-Centro-Florianopolis_1.png",
+      "sourceType": "img:src",
+      "selectorHint": "img.attachment-full.size-full.wp-image-191",
+      "alt": "Link para a página de Ortodontia (Aparelhos) em Florianópolis",
+      "roleHint": "team",
+      "mimeType": "image/png",
+      "width": 800,
+      "height": 600,
+      "sizeBytes": 583750,
+      "sha1": "62e369d565142277169eb844355e935e702f656f",
+      "qualityFlags": [
+        "small_for_hero"
+      ],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/Odontopediatria-Cuidado-especializado-para-criancas-e-Cuidado-especializado-para-criancas-e-Ortopedia-Infantil.-Dentista-Centro-Florianopolis.png",
+      "localPath": "images/home/Odontopediatria-Cuidado-especializado-para-criancas-e-Cuidado-especializado-para-criancas-e-Ortopedia-Infantil.-Dentista-Centro-Florianopolis_1.png",
+      "sourceType": "img:src",
+      "selectorHint": "img.attachment-full.size-full.wp-image-190",
+      "alt": "Link para a página de Odontopediatria (Atendimento Infantil) Florianópolis",
+      "roleHint": "team",
+      "mimeType": "image/png",
+      "width": 800,
+      "height": 600,
+      "sizeBytes": 635070,
+      "sha1": "f7b1a5ff399f22253b71b376e452963d08d2a8bf",
+      "qualityFlags": [
+        "small_for_hero"
+      ],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/Clinico-Geral-e-Prevencao-Check-up-Limpeza-Dental-Restauracoes-e-Tratamento-de-Gengiva.-Dentista-Centro-Florianopolis.png",
+      "localPath": "images/home/Clinico-Geral-e-Prevencao-Check-up-Limpeza-Dental-Restauracoes-e-Tratamento-de-Gengiva.-Dentista-Centro-Florianopolis_1.png",
+      "sourceType": "img:src",
+      "selectorHint": "img.attachment-full.size-full.wp-image-189",
+      "alt": "Link para a página de Clínica Geral e Prevenção em Florianópolis",
+      "roleHint": "team",
+      "mimeType": "image/png",
+      "width": 800,
+      "height": 600,
+      "sizeBytes": 597370,
+      "sha1": "efcd93abe4bda39166fa73efb25f10d1662adf90",
+      "qualityFlags": [
+        "small_for_hero"
+      ],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/Harmonizacao-Orofacial-Botox-terapeutico-e-Preenchimento-com-Acido-Hialuronico.-Dentista-Centro-Florianopolis.png",
+      "localPath": "images/home/Harmonizacao-Orofacial-Botox-terapeutico-e-Preenchimento-com-Acido-Hialuronico.-Dentista-Centro-Florianopolis_1.png",
+      "sourceType": "img:src",
+      "selectorHint": "img.attachment-full.size-full.wp-image-188",
+      "alt": "Link para a página de Harmonização Orofacial (HOF) da Blanc Odontologia",
+      "roleHint": "team",
+      "mimeType": "image/png",
+      "width": 800,
+      "height": 600,
+      "sizeBytes": 579996,
+      "sha1": "e13f7076c6b87812647671784dfa521d777bfc2a",
+      "qualityFlags": [
+        "small_for_hero"
+      ],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/Tratamentos-Especializados-Tratamento-de-Canal-Endodontia-e-Cirurgias-Extracao-de-Siso.-Dentista-Centro-Florianopolis.png",
+      "localPath": "images/home/Tratamentos-Especializados-Tratamento-de-Canal-Endodontia-e-Cirurgias-Extracao-de-Siso.-Dentista-Centro-Florianopolis_1.png",
+      "sourceType": "img:src",
+      "selectorHint": "img.attachment-full.size-full.wp-image-187",
+      "alt": "Link para a página de Endodontia (Tratamento de Canal) da Blanc Odontologia",
+      "roleHint": "team",
+      "mimeType": "image/png",
+      "width": 800,
+      "height": 600,
+      "sizeBytes": 644402,
+      "sha1": "d2f5440ed4631af5aa1b7e6ba3250bbd057f5dbd",
+      "qualityFlags": [
+        "small_for_hero"
+      ],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/dentista-credenciado-unimed-odonto-em-florianopolis.png",
+      "localPath": "images/home/dentista-credenciado-unimed-odonto-em-florianopolis_1.png",
+      "sourceType": "img:src",
+      "selectorHint": "img.attachment-full.size-full.wp-image-168",
+      "alt": "",
+      "roleHint": "team",
+      "mimeType": "image/png",
+      "width": 1200,
+      "height": 1200,
+      "sizeBytes": 277514,
+      "sha1": "19c460c9cb9f428204af2187a46f5be44d70674b",
+      "qualityFlags": [],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/dentista-credenciado-plano-uniodonto-em-florianopolis.png",
+      "localPath": "images/home/dentista-credenciado-plano-uniodonto-em-florianopolis_1.png",
+      "sourceType": "img:src",
+      "selectorHint": "img.attachment-full.size-full.wp-image-166",
+      "alt": "",
+      "roleHint": "team",
+      "mimeType": "image/png",
+      "width": 1200,
+      "height": 1200,
+      "sizeBytes": 269940,
+      "sha1": "60a4ba733626707e37075014774f6f78b9dda92a",
+      "qualityFlags": [],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/dentista-credenciado-plano-sulamerica-em-florianopolis.png",
+      "localPath": "images/home/dentista-credenciado-plano-sulamerica-em-florianopolis_1.png",
+      "sourceType": "img:src",
+      "selectorHint": "img.attachment-full.size-full.wp-image-165",
+      "alt": "",
+      "roleHint": "team",
+      "mimeType": "image/png",
+      "width": 1200,
+      "height": 1200,
+      "sizeBytes": 267864,
+      "sha1": "d6d8f7d987911c8efcc84b90a77507bb1fec1c66",
+      "qualityFlags": [],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/dentista-credenciado-plano-porto-seguro-odontologico-em-florianopolis.png",
+      "localPath": "images/home/dentista-credenciado-plano-porto-seguro-odontologico-em-florianopolis_1.png",
+      "sourceType": "img:src",
+      "selectorHint": "img.attachment-full.size-full.wp-image-164",
+      "alt": "",
+      "roleHint": "team",
+      "mimeType": "image/png",
+      "width": 1200,
+      "height": 1200,
+      "sizeBytes": 298715,
+      "sha1": "fef117842f40a4200d479d4d8b2eb3fc0f492314",
+      "qualityFlags": [],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/dentista-credenciado-plano-odont-em-florianopolis.png",
+      "localPath": "images/home/dentista-credenciado-plano-odont-em-florianopolis_1.png",
+      "sourceType": "img:src",
+      "selectorHint": "img.attachment-full.size-full.wp-image-163",
+      "alt": "",
+      "roleHint": "team",
+      "mimeType": "image/png",
+      "width": 1200,
+      "height": 1200,
+      "sizeBytes": 266041,
+      "sha1": "5a4a05ad4c7ce53d17e53755c710769d535e7a1a",
+      "qualityFlags": [],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/dentista-credenciado-plano-metlife-em-florianopolis.png",
+      "localPath": "images/home/dentista-credenciado-plano-metlife-em-florianopolis_1.png",
+      "sourceType": "img:src",
+      "selectorHint": "img.attachment-full.size-full.wp-image-162",
+      "alt": "",
+      "roleHint": "team",
+      "mimeType": "image/png",
+      "width": 1200,
+      "height": 1200,
+      "sizeBytes": 262833,
+      "sha1": "e918c0fb85ce63191c2ee89b192c84e186a2e824",
+      "qualityFlags": [],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/dentista-credenciado-plano-life-empresarial-saude-em-florianopolis.png",
+      "localPath": "images/home/dentista-credenciado-plano-life-empresarial-saude-em-florianopolis_1.png",
+      "sourceType": "img:src",
+      "selectorHint": "img.attachment-full.size-full.wp-image-161",
+      "alt": "",
+      "roleHint": "team",
+      "mimeType": "image/png",
+      "width": 1200,
+      "height": 1200,
+      "sizeBytes": 309478,
+      "sha1": "7abba919b4e53f98863a440e70a3d64e5bde4f5f",
+      "qualityFlags": [],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/dentista-credenciado-plano-inpao-dental-em-florianopolis.png",
+      "localPath": "images/home/dentista-credenciado-plano-inpao-dental-em-florianopolis_1.png",
+      "sourceType": "img:src",
+      "selectorHint": "img.attachment-full.size-full.wp-image-160",
+      "alt": "",
+      "roleHint": "team",
+      "mimeType": "image/png",
+      "width": 1200,
+      "height": 1200,
+      "sizeBytes": 277408,
+      "sha1": "94f4269a88ec01d85abf8e47311da119fecb3cae",
+      "qualityFlags": [],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/dentista-credenciado-plano-ideal-odonto-em-florianopolis.png",
+      "localPath": "images/home/dentista-credenciado-plano-ideal-odonto-em-florianopolis_1.png",
+      "sourceType": "img:src",
+      "selectorHint": "img.attachment-full.size-full.wp-image-159",
+      "alt": "",
+      "roleHint": "team",
+      "mimeType": "image/png",
+      "width": 1200,
+      "height": 1200,
+      "sizeBytes": 273231,
+      "sha1": "457a148e869de0d410abf9ffacce157a80186cb9",
+      "qualityFlags": [],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/dentista-credenciado-plano-hapvida-em-florianopolis.png",
+      "localPath": "images/home/dentista-credenciado-plano-hapvida-em-florianopolis_1.png",
+      "sourceType": "img:src",
+      "selectorHint": "img.attachment-full.size-full.wp-image-158",
+      "alt": "",
+      "roleHint": "team",
+      "mimeType": "image/png",
+      "width": 1200,
+      "height": 1200,
+      "sizeBytes": 266400,
+      "sha1": "edccbd43800a971bc183e2ccd08622df8870650a",
+      "qualityFlags": [],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/dentista-credenciado-plano-geap-saude-em-florianopolis.png",
+      "localPath": "images/home/dentista-credenciado-plano-geap-saude-em-florianopolis_1.png",
+      "sourceType": "img:src",
+      "selectorHint": "img.attachment-full.size-full.wp-image-157",
+      "alt": "",
+      "roleHint": "team",
+      "mimeType": "image/png",
+      "width": 1200,
+      "height": 1200,
+      "sizeBytes": 260798,
+      "sha1": "8063aca047dd0ea435ecb47cdb37cae01f782d5b",
+      "qualityFlags": [],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/dentista-credenciado-plano-dentaluni-em-florianopolis.png",
+      "localPath": "images/home/dentista-credenciado-plano-dentaluni-em-florianopolis_1.png",
+      "sourceType": "img:src",
+      "selectorHint": "img.attachment-full.size-full.wp-image-156",
+      "alt": "",
+      "roleHint": "team",
+      "mimeType": "image/png",
+      "width": 1200,
+      "height": 1200,
+      "sizeBytes": 292319,
+      "sha1": "b42c7dedb273c75591c04e91a77ea9bddfb4968f",
+      "qualityFlags": [],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/dentista-credenciado-plano-cruz-dental-em-florianopolis.png",
+      "localPath": "images/home/dentista-credenciado-plano-cruz-dental-em-florianopolis_1.png",
+      "sourceType": "img:src",
+      "selectorHint": "img.attachment-full.size-full.wp-image-155",
+      "alt": "",
+      "roleHint": "team",
+      "mimeType": "image/png",
+      "width": 1200,
+      "height": 1200,
+      "sizeBytes": 272241,
+      "sha1": "a72782570b9cfba9f15ea45af86846a5ab813444",
+      "qualityFlags": [],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/dentista-credenciado-plano-celos-em-florianopolis.png",
+      "localPath": "images/home/dentista-credenciado-plano-celos-em-florianopolis_1.png",
+      "sourceType": "img:src",
+      "selectorHint": "img.attachment-full.size-full.wp-image-154",
+      "alt": "",
+      "roleHint": "team",
+      "mimeType": "image/png",
+      "width": 1200,
+      "height": 1200,
+      "sizeBytes": 270410,
+      "sha1": "08588a6532bcf3fa88d4f252914bb676d9d2b4f7",
+      "qualityFlags": [],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/dentista-credenciado-plano-care-plus-em-florianopolis.png",
+      "localPath": "images/home/dentista-credenciado-plano-care-plus-em-florianopolis_1.png",
+      "sourceType": "img:src",
+      "selectorHint": "img.attachment-full.size-full.wp-image-153",
+      "alt": "",
+      "roleHint": "team",
+      "mimeType": "image/png",
+      "width": 1200,
+      "height": 1200,
+      "sizeBytes": 279925,
+      "sha1": "1bb03df47e83f7432f958ed1d186b17de3f99089",
+      "qualityFlags": [],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/dentista-credenciado-plano-athena-saude-em-florianopolis.png",
+      "localPath": "images/home/dentista-credenciado-plano-athena-saude-em-florianopolis_1.png",
+      "sourceType": "img:src",
+      "selectorHint": "img.attachment-full.size-full.wp-image-152",
+      "alt": "",
+      "roleHint": "team",
+      "mimeType": "image/png",
+      "width": 1200,
+      "height": 1200,
+      "sizeBytes": 337373,
+      "sha1": "c5bf42226e4522e08f5b7a76fa449e5050d190cb",
+      "qualityFlags": [],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/dentista-credenciado-plano-amil-dental-em-florianopolis.png",
+      "localPath": "images/home/dentista-credenciado-plano-amil-dental-em-florianopolis_1.png",
+      "sourceType": "img:src",
+      "selectorHint": "img.attachment-full.size-full.wp-image-150",
+      "alt": "",
+      "roleHint": "team",
+      "mimeType": "image/png",
+      "width": 1200,
+      "height": 1200,
+      "sizeBytes": 259953,
+      "sha1": "da27416015d1455e333160a8cb54929ed2cd2a83",
+      "qualityFlags": [],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/dentista-credenciado-plano-aesp-odonto-em-florianopolis.png",
+      "localPath": "images/home/dentista-credenciado-plano-aesp-odonto-em-florianopolis_1.png",
+      "sourceType": "img:src",
+      "selectorHint": "img.attachment-full.size-full.wp-image-149",
+      "alt": "",
+      "roleHint": "team",
+      "mimeType": "image/png",
+      "width": 1200,
+      "height": 1200,
+      "sizeBytes": 254083,
+      "sha1": "f23bb37a74933eb8dc0bf21445f0d5a557412228",
+      "qualityFlags": [],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/Clinica-Odontologica-Blanc-Dentista-Centro-Florianopolis-.png",
+      "localPath": "images/home/Clinica-Odontologica-Blanc-Dentista-Centro-Florianopolis-_1.png",
+      "sourceType": "css:url",
+      "selectorHint": "https://blancodontologia.com/wp-content/uploads/elementor/css/post-61.css?ver=1765373348",
+      "alt": "",
+      "roleHint": "team",
+      "mimeType": "image/png",
+      "width": 724,
+      "height": 483,
+      "sizeBytes": 400143,
+      "sha1": "60e6e33e0d67f01557a8c20bd4ff29a0158468d4",
+      "qualityFlags": [
+        "small_for_hero"
+      ],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkC3kaWzU.woff2",
+      "localPath": "images/home/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkC3kaWzU.woff2",
+      "sourceType": "css:url",
+      "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+      "alt": "",
+      "roleHint": "general",
+      "mimeType": "font/woff2",
+      "width": null,
+      "height": null,
+      "sizeBytes": 40480,
+      "sha1": "80b19703cadc8949a24eb83571f26f192ddbeb76",
+      "qualityFlags": [
+        "dimensions_unknown"
+      ],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkAnkaWzU.woff2",
+      "localPath": "images/home/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkAnkaWzU.woff2",
+      "sourceType": "css:url",
+      "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+      "alt": "",
+      "roleHint": "general",
+      "mimeType": "font/woff2",
+      "width": null,
+      "height": null,
+      "sizeBytes": 25464,
+      "sha1": "872a626f518f80709980a5e439d87db1140ccb31",
+      "qualityFlags": [
+        "dimensions_unknown"
+      ],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkCnkaWzU.woff2",
+      "localPath": "images/home/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkCnkaWzU.woff2",
+      "sourceType": "css:url",
+      "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+      "alt": "",
+      "roleHint": "general",
+      "mimeType": "font/woff2",
+      "width": null,
+      "height": null,
+      "sizeBytes": 4452,
+      "sha1": "9f7b1895f418b62f914786c2a826a6c2d6cac53e",
+      "qualityFlags": [
+        "dimensions_unknown"
+      ],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkBXkaWzU.woff2",
+      "localPath": "images/home/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkBXkaWzU.woff2",
+      "sourceType": "css:url",
+      "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+      "alt": "",
+      "roleHint": "general",
+      "mimeType": "font/woff2",
+      "width": null,
+      "height": null,
+      "sizeBytes": 18780,
+      "sha1": "25e95a37dfd9b5f229fea663564a625a72721f40",
+      "qualityFlags": [
+        "dimensions_unknown"
+      ],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkenkaWzU.woff2",
+      "localPath": "images/home/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkenkaWzU.woff2",
+      "sourceType": "css:url",
+      "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+      "alt": "",
+      "roleHint": "general",
+      "mimeType": "font/woff2",
+      "width": null,
+      "height": null,
+      "sizeBytes": 45184,
+      "sha1": "c69ff6ecf45aebe6773d03b2d6a8d975f0eef18b",
+      "qualityFlags": [
+        "dimensions_unknown"
+      ],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkaHkaWzU.woff2",
+      "localPath": "images/home/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkaHkaWzU.woff2",
+      "sourceType": "css:url",
+      "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+      "alt": "",
+      "roleHint": "general",
+      "mimeType": "font/woff2",
+      "width": null,
+      "height": null,
+      "sizeBytes": 22440,
+      "sha1": "d828e3547254af68d2cda497c7bb2cb9bc5f87ab",
+      "qualityFlags": [
+        "dimensions_unknown"
+      ],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkCXkaWzU.woff2",
+      "localPath": "images/home/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkCXkaWzU.woff2",
+      "sourceType": "css:url",
+      "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+      "alt": "",
+      "roleHint": "general",
+      "mimeType": "font/woff2",
+      "width": null,
+      "height": null,
+      "sizeBytes": 15344,
+      "sha1": "fac8365be7930f8f2edcc2be8c715f7de02d2991",
+      "qualityFlags": [
+        "dimensions_unknown"
+      ],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkCHkaWzU.woff2",
+      "localPath": "images/home/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkCHkaWzU.woff2",
+      "sourceType": "css:url",
+      "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+      "alt": "",
+      "roleHint": "general",
+      "mimeType": "font/woff2",
+      "width": null,
+      "height": null,
+      "sizeBytes": 31820,
+      "sha1": "08ccbfb0b5f90a7b477232d00d50b715e3538fcc",
+      "qualityFlags": [
+        "dimensions_unknown"
+      ],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkBnka.woff2",
+      "localPath": "images/home/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkBnka.woff2",
+      "sourceType": "css:url",
+      "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+      "alt": "",
+      "roleHint": "general",
+      "mimeType": "font/woff2",
+      "width": null,
+      "height": null,
+      "sizeBytes": 47208,
+      "sha1": "656fca193330ac8ec592a0942f4e7d718fa69cbf",
+      "qualityFlags": [
+        "dimensions_unknown"
+      ],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3GUBGEe.woff2",
+      "localPath": "images/home/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3GUBGEe.woff2",
+      "sourceType": "css:url",
+      "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+      "alt": "",
+      "roleHint": "general",
+      "mimeType": "font/woff2",
+      "width": null,
+      "height": null,
+      "sizeBytes": 36652,
+      "sha1": "af2482c394a5115463b16dcae9d2429f56665a4d",
+      "qualityFlags": [
+        "dimensions_unknown"
+      ],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3iUBGEe.woff2",
+      "localPath": "images/home/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3iUBGEe.woff2",
+      "sourceType": "css:url",
+      "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+      "alt": "",
+      "roleHint": "general",
+      "mimeType": "font/woff2",
+      "width": null,
+      "height": null,
+      "sizeBytes": 23664,
+      "sha1": "d38fbadd1b1ceccffbfb43f677698f3a7112f0b4",
+      "qualityFlags": [
+        "dimensions_unknown"
+      ],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3CUBGEe.woff2",
+      "localPath": "images/home/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3CUBGEe.woff2",
+      "sourceType": "css:url",
+      "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+      "alt": "",
+      "roleHint": "general",
+      "mimeType": "font/woff2",
+      "width": null,
+      "height": null,
+      "sizeBytes": 4348,
+      "sha1": "9ff50f57949d388b146ff84a4c3d5ca027816acb",
+      "qualityFlags": [
+        "dimensions_unknown"
+      ],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3-UBGEe.woff2",
+      "localPath": "images/home/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3-UBGEe.woff2",
+      "sourceType": "css:url",
+      "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+      "alt": "",
+      "roleHint": "general",
+      "mimeType": "font/woff2",
+      "width": null,
+      "height": null,
+      "sizeBytes": 17624,
+      "sha1": "52230241f4fc23d508444b37b92bfdcb6dd96595",
+      "qualityFlags": [
+        "dimensions_unknown"
+      ],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMawCUBGEe.woff2",
+      "localPath": "images/home/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMawCUBGEe.woff2",
+      "sourceType": "css:url",
+      "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+      "alt": "",
+      "roleHint": "general",
+      "mimeType": "font/woff2",
+      "width": null,
+      "height": null,
+      "sizeBytes": 41348,
+      "sha1": "205228bc618a378a36ef6200894c10aa1decda09",
+      "qualityFlags": [
+        "dimensions_unknown"
+      ],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMaxKUBGEe.woff2",
+      "localPath": "images/home/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMaxKUBGEe.woff2",
+      "sourceType": "css:url",
+      "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+      "alt": "",
+      "roleHint": "general",
+      "mimeType": "font/woff2",
+      "width": null,
+      "height": null,
+      "sizeBytes": 20556,
+      "sha1": "e57daae78e76c8944e97edecfa656f8608e09db5",
+      "qualityFlags": [
+        "dimensions_unknown"
+      ],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3OUBGEe.woff2",
+      "localPath": "images/home/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3OUBGEe.woff2",
+      "sourceType": "css:url",
+      "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+      "alt": "",
+      "roleHint": "general",
+      "mimeType": "font/woff2",
+      "width": null,
+      "height": null,
+      "sizeBytes": 14340,
+      "sha1": "ea12964a22c83d28a3afb1c29ad45ee75e7e2d52",
+      "qualityFlags": [
+        "dimensions_unknown"
+      ],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3KUBGEe.woff2",
+      "localPath": "images/home/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3KUBGEe.woff2",
+      "sourceType": "css:url",
+      "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+      "alt": "",
+      "roleHint": "general",
+      "mimeType": "font/woff2",
+      "width": null,
+      "height": null,
+      "sizeBytes": 29392,
+      "sha1": "6a5e89b2f9b47f5a2fb11831479c02b4eebe3089",
+      "qualityFlags": [
+        "dimensions_unknown"
+      ],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+      "localPath": "images/home/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+      "sourceType": "css:url",
+      "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+      "alt": "",
+      "roleHint": "general",
+      "mimeType": "font/woff2",
+      "width": null,
+      "height": null,
+      "sizeBytes": 43136,
+      "sha1": "41ca6b7e4818eb81531d8006ff7ddd971c640879",
+      "qualityFlags": [
+        "dimensions_unknown"
+      ],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufA5qW54A.woff2",
+      "localPath": "images/home/BngMUXZYTXPIvIBgJJSb6ufA5qW54A.woff2",
+      "sourceType": "css:url",
+      "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Roboto Slab:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+      "alt": "",
+      "roleHint": "general",
+      "mimeType": "font/woff2",
+      "width": null,
+      "height": null,
+      "sizeBytes": 32340,
+      "sha1": "63f0e2200ca0e3e96c1dd9af084ef37522557349",
+      "qualityFlags": [
+        "dimensions_unknown"
+      ],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufJ5qW54A.woff2",
+      "localPath": "images/home/BngMUXZYTXPIvIBgJJSb6ufJ5qW54A.woff2",
+      "sourceType": "css:url",
+      "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Roboto Slab:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+      "alt": "",
+      "roleHint": "general",
+      "mimeType": "font/woff2",
+      "width": null,
+      "height": null,
+      "sizeBytes": 21420,
+      "sha1": "fdfc41c6fa88004c98fc8f25312e12fc68b8bf65",
+      "qualityFlags": [
+        "dimensions_unknown"
+      ],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufB5qW54A.woff2",
+      "localPath": "images/home/BngMUXZYTXPIvIBgJJSb6ufB5qW54A.woff2",
+      "sourceType": "css:url",
+      "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Roboto Slab:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+      "alt": "",
+      "roleHint": "general",
+      "mimeType": "font/woff2",
+      "width": null,
+      "height": null,
+      "sizeBytes": 2224,
+      "sha1": "d2787be9ce0c77b3d21dc8255c7f17efcad67105",
+      "qualityFlags": [
+        "dimensions_unknown"
+      ],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufO5qW54A.woff2",
+      "localPath": "images/home/BngMUXZYTXPIvIBgJJSb6ufO5qW54A.woff2",
+      "sourceType": "css:url",
+      "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Roboto Slab:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+      "alt": "",
+      "roleHint": "general",
+      "mimeType": "font/woff2",
+      "width": null,
+      "height": null,
+      "sizeBytes": 14856,
+      "sha1": "d1f0491386ce465716d73650e943358f28ad4c8e",
+      "qualityFlags": [
+        "dimensions_unknown"
+      ],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufC5qW54A.woff2",
+      "localPath": "images/home/BngMUXZYTXPIvIBgJJSb6ufC5qW54A.woff2",
+      "sourceType": "css:url",
+      "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Roboto Slab:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+      "alt": "",
+      "roleHint": "general",
+      "mimeType": "font/woff2",
+      "width": null,
+      "height": null,
+      "sizeBytes": 9980,
+      "sha1": "3246f6e544f30242a465311793ca2f421fd52516",
+      "qualityFlags": [
+        "dimensions_unknown"
+      ],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufD5qW54A.woff2",
+      "localPath": "images/home/BngMUXZYTXPIvIBgJJSb6ufD5qW54A.woff2",
+      "sourceType": "css:url",
+      "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Roboto Slab:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+      "alt": "",
+      "roleHint": "general",
+      "mimeType": "font/woff2",
+      "width": null,
+      "height": null,
+      "sizeBytes": 21188,
+      "sha1": "ec0885c33c5210afc6b3aec3eb221fe747b99de6",
+      "qualityFlags": [
+        "dimensions_unknown"
+      ],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://fonts.gstatic.com/s/robotoslab/v36/BngMUXZYTXPIvIBgJJSb6ufN5qU.woff2",
+      "localPath": "images/home/BngMUXZYTXPIvIBgJJSb6ufN5qU.woff2",
+      "sourceType": "css:url",
+      "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Roboto Slab:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+      "alt": "",
+      "roleHint": "general",
+      "mimeType": "font/woff2",
+      "width": null,
+      "height": null,
+      "sizeBytes": 34236,
+      "sha1": "427949faee52b0848aacce8dde79939e4956c3d3",
+      "qualityFlags": [
+        "dimensions_unknown"
+      ],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRxC7mw9c.woff2",
+      "localPath": "images/home/JTUQjIg1_i6t8kCHKm459WxRxC7mw9c.woff2",
+      "sourceType": "css:url",
+      "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Montserrat:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+      "alt": "",
+      "roleHint": "general",
+      "mimeType": "font/woff2",
+      "width": null,
+      "height": null,
+      "sizeBytes": 26944,
+      "sha1": "eb7119676692688c070f66a0ec90e3264358b935",
+      "qualityFlags": [
+        "dimensions_unknown"
+      ],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRzS7mw9c.woff2",
+      "localPath": "images/home/JTUQjIg1_i6t8kCHKm459WxRzS7mw9c.woff2",
+      "sourceType": "css:url",
+      "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Montserrat:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+      "alt": "",
+      "roleHint": "general",
+      "mimeType": "font/woff2",
+      "width": null,
+      "height": null,
+      "sizeBytes": 24536,
+      "sha1": "557cc5d8766d09ceecef0e7001ebe019166ee3b6",
+      "qualityFlags": [
+        "dimensions_unknown"
+      ],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRxi7mw9c.woff2",
+      "localPath": "images/home/JTUQjIg1_i6t8kCHKm459WxRxi7mw9c.woff2",
+      "sourceType": "css:url",
+      "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Montserrat:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+      "alt": "",
+      "roleHint": "general",
+      "mimeType": "font/woff2",
+      "width": null,
+      "height": null,
+      "sizeBytes": 13900,
+      "sha1": "ae2baf54c358113d237f52cc881b6ccc3132125c",
+      "qualityFlags": [
+        "dimensions_unknown"
+      ],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRxy7mw9c.woff2",
+      "localPath": "images/home/JTUQjIg1_i6t8kCHKm459WxRxy7mw9c.woff2",
+      "sourceType": "css:url",
+      "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Montserrat:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+      "alt": "",
+      "roleHint": "general",
+      "mimeType": "font/woff2",
+      "width": null,
+      "height": null,
+      "sizeBytes": 74892,
+      "sha1": "7ca9746a636045ee7c6d100f68950787e784c0a3",
+      "qualityFlags": [
+        "dimensions_unknown"
+      ],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRyS7m.woff2",
+      "localPath": "images/home/JTUQjIg1_i6t8kCHKm459WxRyS7m.woff2",
+      "sourceType": "css:url",
+      "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Montserrat:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+      "alt": "",
+      "roleHint": "general",
+      "mimeType": "font/woff2",
+      "width": null,
+      "height": null,
+      "sizeBytes": 39632,
+      "sha1": "fa235c9a02b7c843a193fcea248f1ec7891812c7",
+      "qualityFlags": [
+        "dimensions_unknown"
+      ],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2",
+      "localPath": "images/home/JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2",
+      "sourceType": "css:url",
+      "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Montserrat:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+      "alt": "",
+      "roleHint": "general",
+      "mimeType": "font/woff2",
+      "width": null,
+      "height": null,
+      "sizeBytes": 26368,
+      "sha1": "9f10d2948d17ed748663d1acfb100fa9cec8e92e",
+      "qualityFlags": [
+        "dimensions_unknown"
+      ],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459W1hyzbi.woff2",
+      "localPath": "images/home/JTUSjIg1_i6t8kCHKm459W1hyzbi.woff2",
+      "sourceType": "css:url",
+      "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Montserrat:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+      "alt": "",
+      "roleHint": "general",
+      "mimeType": "font/woff2",
+      "width": null,
+      "height": null,
+      "sizeBytes": 23828,
+      "sha1": "520cd39b1b5bb249f2f7587505f0e3711be52c90",
+      "qualityFlags": [
+        "dimensions_unknown"
+      ],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459WZhyzbi.woff2",
+      "localPath": "images/home/JTUSjIg1_i6t8kCHKm459WZhyzbi.woff2",
+      "sourceType": "css:url",
+      "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Montserrat:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+      "alt": "",
+      "roleHint": "general",
+      "mimeType": "font/woff2",
+      "width": null,
+      "height": null,
+      "sizeBytes": 12928,
+      "sha1": "404038f1a5087fd7e1241182f717806eaa8c21e4",
+      "qualityFlags": [
+        "dimensions_unknown"
+      ],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459Wdhyzbi.woff2",
+      "localPath": "images/home/JTUSjIg1_i6t8kCHKm459Wdhyzbi.woff2",
+      "sourceType": "css:url",
+      "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Montserrat:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+      "alt": "",
+      "roleHint": "general",
+      "mimeType": "font/woff2",
+      "width": null,
+      "height": null,
+      "sizeBytes": 70688,
+      "sha1": "a63797c1e1c137082b7a58f6ee58ccb8640ac51e",
+      "qualityFlags": [
+        "dimensions_unknown"
+      ],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2",
+      "localPath": "images/home/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2",
+      "sourceType": "css:url",
+      "selectorHint": "https://fonts.googleapis.com/css?display=swap&family=Montserrat:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic",
+      "alt": "",
+      "roleHint": "general",
+      "mimeType": "font/woff2",
+      "width": null,
+      "height": null,
+      "sizeBytes": 37956,
+      "sha1": "a5ec54920b589ebe2af3bc3bb7754a476db68abf",
+      "qualityFlags": [
+        "dimensions_unknown"
+      ],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/Design-sem-nome-3-150x150.png",
+      "localPath": "images/home/Design-sem-nome-3-150x150.png",
+      "sourceType": "link:icon",
+      "selectorHint": "icon",
+      "alt": "",
+      "roleHint": "logo_or_icon",
+      "mimeType": "image/png",
+      "width": 150,
+      "height": 150,
+      "sizeBytes": 2755,
+      "sha1": "e988f720b954a6c07fe99037b1d824f844ba8052",
+      "qualityFlags": [
+        "low_resolution",
+        "small_for_hero",
+        "possibly_overcompressed"
+      ],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    },
+    {
+      "sourceUrl": "https://blancodontologia.com/wp-content/uploads/2025/11/Design-sem-nome-3-300x300.png",
+      "localPath": "images/home/Design-sem-nome-3-300x300.png",
+      "sourceType": "link:icon",
+      "selectorHint": "icon",
+      "alt": "",
+      "roleHint": "logo_or_icon",
+      "mimeType": "image/png",
+      "width": 300,
+      "height": 300,
+      "sizeBytes": 7383,
+      "sha1": "db7d239c0f297848eb383922e396b583be10d3e1",
+      "qualityFlags": [
+        "low_resolution",
+        "small_for_hero",
+        "possibly_overcompressed"
+      ],
+      "foundOnPage": "https://www.blancodontologia.com/"
+    }
+  ],
+  "errors": [
+    {
+      "url": "https://www.blancodontologia.com/happy-icons.woff2",
+      "error": "404 Client Error: Not Found for url: https://blancodontologia.com/happy-icons.woff2"
+    },
+    {
+      "url": "https://www.blancodontologia.com/happy-icons.woff",
+      "error": "404 Client Error: Not Found for url: https://blancodontologia.com/happy-icons.woff"
+    },
+    {
+      "url": "https://www.blancodontologia.com/happy-icons.svg",
+      "error": "404 Client Error: Not Found for url: https://blancodontologia.com/happy-icons.svg"
+    },
+    {
+      "url": "https://www.blancodontologia.com/fonts/fontawesome-webfont.eot?v=4.7.0",
+      "error": "404 Client Error: Not Found for url: https://blancodontologia.com/fonts/fontawesome-webfont.eot?v=4.7.0"
+    },
+    {
+      "url": "https://www.blancodontologia.com/fonts/fontawesome-webfont.eot",
+      "error": "404 Client Error: Not Found for url: https://blancodontologia.com/fonts/fontawesome-webfont.eot"
+    },
+    {
+      "url": "https://www.blancodontologia.com/fonts/fontawesome-webfont.woff2?v=4.7.0",
+      "error": "404 Client Error: Not Found for url: https://blancodontologia.com/fonts/fontawesome-webfont.woff2?v=4.7.0"
+    },
+    {
+      "url": "https://www.blancodontologia.com/fonts/fontawesome-webfont.woff?v=4.7.0",
+      "error": "404 Client Error: Not Found for url: https://blancodontologia.com/fonts/fontawesome-webfont.woff?v=4.7.0"
+    },
+    {
+      "url": "https://www.blancodontologia.com/fonts/fontawesome-webfont.ttf?v=4.7.0",
+      "error": "404 Client Error: Not Found for url: https://blancodontologia.com/fonts/fontawesome-webfont.ttf?v=4.7.0"
+    },
+    {
+      "url": "https://www.blancodontologia.com/fonts/fontawesome-webfont.svg?v=4.7.0",
+      "error": "404 Client Error: Not Found for url: https://blancodontologia.com/fonts/fontawesome-webfont.svg?v=4.7.0"
+    },
+    {
+      "url": "https://www.blancodontologia.com/huge-icons.woff2",
+      "error": "404 Client Error: Not Found for url: https://blancodontologia.com/huge-icons.woff2"
+    },
+    {
+      "url": "https://www.blancodontologia.com/huge-icons.woff",
+      "error": "404 Client Error: Not Found for url: https://blancodontologia.com/huge-icons.woff"
+    },
+    {
+      "url": "https://www.blancodontologia.com/huge-icons.svg",
+      "error": "404 Client Error: Not Found for url: https://blancodontologia.com/huge-icons.svg"
+    }
+  ]
+}

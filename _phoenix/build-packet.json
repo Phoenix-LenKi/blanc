@@ -1,0 +1,31 @@
+{
+  "jobId": "prep_blanc_odontologia_mnl7lmst",
+  "status": "ready",
+  "lead": {
+    "originalSiteUrl": "https://www.blancodontologia.com/",
+    "leadName": "Blanc Odontologia",
+    "niche": "Odontologia",
+    "cityState": "Florianópolis - SC",
+    "whatsapp": "(48) 99108-6854",
+    "observations": "Tem o domínio a bastante tempo, sempre tentaram atualizar o site mas nunca fica bom, boa oportunidade!"
+  },
+  "project": {
+    "projectSlug": "blanc-odontologia",
+    "projectDir": "E:/APPS/Projeto-Phoenix/blanc-odontologia",
+    "scrapeDir": "E:/APPS/Projeto-Phoenix/blanc-odontologia/input/site-scrape"
+  },
+  "paths": {
+    "localImageArchiveDir": "E:/APPS/Projeto-Phoenix/blanc-odontologia/input/site-scrape/images",
+    "imageManifestFile": "E:/APPS/Projeto-Phoenix/blanc-odontologia/input/site-scrape/manifest.json",
+    "localHtmlArchiveDir": "E:/APPS/Projeto-Phoenix/blanc-odontologia/input/site-scrape/pages"
+  },
+  "checks": {
+    "projectDirExists": true,
+    "imagesDirExists": true,
+    "pagesDirExists": true,
+    "manifestExists": true
+  },
+  "promptVars": "ORIGINAL_SITE_URL = https://www.blancodontologia.com/\nLEAD_NAME = Blanc Odontologia\nNICHO = Odontologia\nCIDADE_ESTADO = Florianópolis - SC\nWHATSAPP_DESTINO = (48) 99108-6854\nOBSERVACOES_PHOENIX = Tem o domínio a bastante tempo, sempre tentaram atualizar o site mas nunca fica bom, boa oportunidade!\nLOCAL_IMAGE_ARCHIVE_DIR = E:/APPS/Projeto-Phoenix/blanc-odontologia/input/site-scrape/images\nIMAGE_MANIFEST_FILE = E:/APPS/Projeto-Phoenix/blanc-odontologia/input/site-scrape/manifest.json\nLOCAL_HTML_ARCHIVE_DIR = E:/APPS/Projeto-Phoenix/blanc-odontologia/input/site-scrape/pages\nDEMO_URL =",
+  "generatedAt": "2026-04-05T05:20:30Z",
+  "errorMessage": ""
+}
