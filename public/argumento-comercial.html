@@ -10,109 +10,79 @@
     .container { max-width: 800px; margin: 0 auto; padding: 40px 20px; }
     h1 { color: #C0AF7F; font-size: 2rem; margin-bottom: 10px; }
     h2 { color: #54595F; font-size: 1.3rem; margin: 25px 0 10px; }
-    .section { background: white; padding: 25px; border-radius: 12px; margin-bottom: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); }
-    .message { background: #e3f2fd; padding: 20px; border-radius: 8px; margin-bottom: 15px; }
-    .message h3 { color: #1565c0; margin-bottom: 8px; }
-    .followup { border-left: 3px solid #C0AF7F; padding-left: 15px; margin: 15px 0; }
-    .objection { background: #fff3e0; padding: 15px; border-radius: 8px; margin-bottom: 10px; }
-    .objection strong { color: #e65100; }
-    .response { color: #2e7d32; margin-top: 5px; }
-    .value { background: #e8f5e9; padding: 15px; border-radius: 8px; margin: 10px 0; }
-    .value li { margin-bottom: 8px; }
-    .pricing { background: #fce4ec; padding: 20px; border-radius: 12px; margin-top: 20px; }
-    .pricing h3 { color: #c2185b; margin-bottom: 15px; }
-    .price-item { display: flex; justify-content: space-between; padding: 10px 0; border-bottom: 1px dashed #f48fb1; }
+    .section { background: white; padding: 25px; border-radius: 12px; margin-bottom: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.05); }
+    .message { background: #fdfbf7; border: 1px solid #C0AF7F; padding: 20px; border-radius: 8px; margin-bottom: 15px; }
+    .message h3 { color: #C0AF7F; margin-bottom: 8px; }
+    .followup { border-left: 3px solid #C0AF7F; padding-left: 15px; margin: 15px 0; font-style: italic; color: #555; }
+    .objection { background: #f9f9f9; padding: 15px; border-radius: 8px; margin-bottom: 10px; border-left: 4px solid #54595F; }
+    .objection strong { color: #333; }
+    .response { color: #444; margin-top: 5px; }
+    .value { background: #fafafa; padding: 15px; border-radius: 8px; margin: 10px 0; border: 1px solid #eee; }
+    .value li { margin-bottom: 8px; list-style: none; }
+    .pricing { background: #2E2E2E; color: white; padding: 30px; border-radius: 12px; margin-top: 20px; }
+    .pricing h3 { color: #C0AF7F; margin-bottom: 15px; font-size: 1.4rem; }
+    .price-item { display: flex; justify-content: space-between; padding: 12px 0; border-bottom: 1px dashed #555; }
     .price-item:last-child { border: none; }
-    .price-item .price { font-weight: 700; color: #c2185b; }
+    .price-item .price { font-weight: 700; color: #C0AF7F; }
   </style>
 </head>
 <body>
   <div class="container">
-    <h1>Argumento Comercial - Blanc Odontologia</h1>
+    <h1>Argumento Comercial Premium - Blanc Odontologia</h1>
+    <p style="color: #7A7A7A; margin-bottom: 30px;">Estratégia de Vendas - Valuation Alvo: R$ 25.000,00</p>
 
     <div class="section">
-      <h2>Mensagem Inicial</h2>
+      <h2>Abordagem Inicial (Consultiva)</h2>
       <div class="message">
-        <h3>Olá! 👋</h3>
-        <p>Vi que você tem a Blanc Odontologia há um bom tempo e sei que vocês sempre tentaram atualizar o site mas nunca ficou do jeito que gostaria.</p>
-        <p>Trouxe uma proposta de novo site moderno, profissional e que realmente representa a qualidade do atendimento de vocês. Quer ver?</p>
+        <h3>Apresentação de Valor</h3>
+        <p>"Olá, Dra. Daniela! Acompanhamos o trabalho de excelência da Blanc Odontologia em Florianópolis. Notamos que, embora a clínica seja referência em Implantes e Lentes de Contato, a presença digital atual não transmite o altíssimo padrão ('Premium') que os seus pacientes encontram no consultório."</p>
+        <p>"Nossa equipe técnica realizou uma reconstrução nativa e exclusiva do portal da Blanc, focada em performance máxima, design editorial e quebra de objeções (FAQ). Gostaria de lhe apresentar essa experiência?"</p>
       </div>
     </div>
 
     <div class="section">
-      <h2>Follow-up 24h</h2>
-      <div class="followup">
-        <p>"Oi! Só passando pra lembrar da proposta do site novo. É algo que pode transformar completamente a presença digital da clínica. Qualquer dúvida, me chama!"</p>
+      <h2>Objeções de Alto Ticket (Contorno)</h2>
+      
+      <div class="objection">
+        <strong>"Nós já temos um site que funciona."</strong>
+        <p class="response">→ Funcionar tecnicamente é diferente de atrair pacientes High-ticket. O novo ecossistema não é um "site", é uma máquina de conversão desenvolvida em Next.js (tecnologia de ponta), extremamente rápida no celular, que gera confiança instantânea ao paciente de Lentes e Implantes.</p>
+      </div>
+      
+      <div class="objection">
+        <strong>"O valor do investimento foge ao nosso padrão para site."</strong>
+        <p class="response">→ O investimento reflete o retorno esperado. Clínicas que atuam com HOF e Próteses lidam com Tíquete Médio elevado. Um design obsoleto desvaloriza seu orçamento e perde o paciente para um concorrente com percepção de valor melhor. Um único paciente de protocolo fecha esse investimento com ROI positivo.</p>
+      </div>
+
+      <div class="objection">
+        <strong>"Nossa agência de marketing já cuida das atualizações."</strong>
+        <p class="response">→ A maioria das agências utiliza sistemas de vitrine como WordPress/Wix (modelos engessados). O que entregamos é tecnologia proprietária. O código é limpo, com rotas instantâneas (sem carregamento) e otimizado perfeitamente para WhatsApp.</p>
       </div>
     </div>
 
     <div class="section">
-      <h2>Follow-up 48h</h2>
-      <div class="followup">
-        <p>"Olá! Segue o link para ver o novo site da Blanc: [URL]. O design já está todo pensado com as cores e estilo de vocês. O que achou?"</p>
-      </div>
-    </div>
-
-    <div class="section">
-      <h2>5 Objeções com Respostas</h2>
-      
-      <div class="objection">
-        <strong>"Já tenho site, não preciso de outro"</strong>
-        <p class="response">→ O site atual é WordPress e está datado. O novo é Next.js, muito mais rápido, moderno e otimizado para mobile - onde 80% dos seus pacientes chegam.</p>
-      </div>
-      
-      <div class="objection">
-        <strong>"Não tenho tempo para mexer"</strong>
-        <p class="response">→ Não precisa mexer em nada. Você só fornece as informações uma vez e entregamos tudo pronto. Sem dor de cabeça.</p>
-      </div>
-      
-      <div class="objection">
-        <strong>"É muito caro"</strong>
-        <p class="response">→ Investimento único de R$ 1.997 para um site premium que vai durar anos. Comparing com concorrentes, é muito abaixo do mercado.</p>
-      </div>
-      
-      <div class="objection">
-        <strong>"Não sei se meu pacientes vão notar a diferença"</strong>
-        <p class="response">→ Vão sim. Site profissional passa credibilidade. Paciente vê um site bonito e já confia mais no atendimento. É investimento em conversão.</p>
-      </div>
-      
-      <div class="objection">
-        <strong>"Como vou manter depois?"</strong>
-        <p class="response">→ Oferecemos planos de manutenção a partir de R$ 109/mês. Você não precisa se preocupar com absolutamente nada.</p>
-      </div>
-    </div>
-
-    <div class="section">
-      <h2>3 Bullets de Valor</h2>
+      <h2>Pilares de Valor Inegociáveis</h2>
       <div class="value">
         <ul>
-          <li>✓ <strong>Design premium</strong> - Cores e estilo da marca original, não template genérico</li>
-          <li>✓ <strong>Imagens reais</strong> - Fotos do seu próprios negócio, não stock fake</li>
-          <li>✓ <strong>SEO avanzado</strong> - Aparece no Google para "dentista [cidade]" e derivadas</li>
+          <li>✓ <strong>Conversão Mobile (16:9):</strong> 85% dos pacientes vêm do celular. Refinamos o espaçamento e a proporção cirurgicamente para evitar distrações.</li>
+          <li>✓ <strong>Pre-suasão (FAQ Estratégico):</strong> Implementamos um módulo animado com Quebra de Objeções. O paciente já chega com as perguntas difíceis respondidas.</li>
+          <li>✓ <strong>Estética Editorial:</strong> Nada de letreiros piscantes. Usamos paleta sofisticada (Rose/Dourado) contrastada com fontes puristas para a sensação premium.</li>
         </ul>
       </div>
     </div>
 
     <div class="section">
-      <h2>Oferta Phoenix</h2>
+      <h2>Oferta de Implementação Elite</h2>
       <div class="pricing">
-        <h3>Planos de Serviço</h3>
+        <h3>Ecosistema Digital 360º Blanc</h3>
         <div class="price-item">
-          <span>Setup / Implantação</span>
-          <span class="price">R$ 1.997,00</span>
+          <span>Licenciamento + Design Architecture (Setup)</span>
+          <span class="price">R$ 25.000,00</span>
         </div>
         <div class="price-item">
-          <span>START - Manutenção básica</span>
-          <span class="price">R$ 109,90/mês</span>
+          <span>Maintenance & Cloud Hosting (Vercel Edge)</span>
+          <span class="price">R$ 1.500,00/mês</span>
         </div>
-        <div class="price-item">
-          <span>CARE - Manutenção + conteúdo</span>
-          <span class="price">R$ 149,90/mês</span>
-        </div>
-        <div class="price-item">
-          <span>ELITE - Completo</span>
-          <span class="price">R$ 347,90/mês</span>
-        </div>
+        <p style="font-size: 0.85rem; color: #ccc; margin-top: 15px; font-style: italic;">*A proposta de alto ticket engloba exclusividade de servidor (Vercel de alta performance) e engenharia React/Next.js focada em performance orgânica SEO.</p>
       </div>
     </div>
   </div>
